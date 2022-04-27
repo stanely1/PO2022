@@ -1,0 +1,2 @@
+mcs /target:library /out:lista.dll lista.cs
+mcs /reference:lista.dll main.cs

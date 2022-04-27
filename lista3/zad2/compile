@@ -1,0 +1,2 @@
+mcs /target:library /out:dictionary.dll dictionary.cs
+mcs /reference:dictionary.dll main.cs
